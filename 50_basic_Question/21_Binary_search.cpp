@@ -1,5 +1,4 @@
-#include <iostream>
-#include <vector>
+#include<bits/stdc++.h>
 using namespace std;
 
 // Binary search in a normal array
